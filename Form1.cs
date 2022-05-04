@@ -29,5 +29,10 @@ namespace Aula71_IMC
 
             imc.ClassifImc();
         }
+
+        private void txtAltura_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }

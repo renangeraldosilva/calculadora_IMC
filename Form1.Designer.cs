@@ -32,7 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtPeso = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.txtAltura = new System.Windows.Forms.TextBox();
+            this.txtAltura = new System.Windows.Forms.MaskedTextBox();
             this.SuspendLayout();
             // 
             // btnCalc
@@ -72,16 +72,19 @@
             // 
             // txtAltura
             // 
-            this.txtAltura.Location = new System.Drawing.Point(172, 109);
+            this.txtAltura.Location = new System.Drawing.Point(172, 112);
+            this.txtAltura.Mask = "0.00";
             this.txtAltura.Name = "txtAltura";
             this.txtAltura.Size = new System.Drawing.Size(100, 20);
-            this.txtAltura.TabIndex = 2;
+            this.txtAltura.TabIndex = 3;
+            this.txtAltura.ValidatingType = typeof(System.DateTime);
+            this.txtAltura.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.txtAltura_MaskInputRejected);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(358, 266);
+            this.ClientSize = new System.Drawing.Size(352, 298);
             this.Controls.Add(this.txtAltura);
             this.Controls.Add(this.txtPeso);
             this.Controls.Add(this.label2);
@@ -100,7 +103,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtPeso;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox txtAltura;
+        private System.Windows.Forms.MaskedTextBox txtAltura;
     }
 }
 
