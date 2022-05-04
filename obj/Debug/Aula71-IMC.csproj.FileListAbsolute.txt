@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\bin\Debug\Aula71-IMC.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\bin\Debug\Aula71-IMC.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\bin\Debug\Aula71-IMC.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71_IMC.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71_IMC.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula71-IMC\obj\Debug\Aula71-IMC.pdb
